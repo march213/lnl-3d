@@ -98,6 +98,20 @@ function App() {
               discoverthreejs
             </a>
           </li>
+          <li>
+            <a href='https://www.youtube.com/user/flintyara' target='_blank' rel='noopener noreferrer'>
+              Yuri Artyukh
+            </a>
+          </li>
+          <li>
+            <a
+              href='https://www.youtube.com/watch?v=kfM-yu0iQBk&list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              Freya Holmér
+            </a>
+          </li>
         </ul>
       </section>
       <section>
