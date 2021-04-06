@@ -41,6 +41,11 @@ function App() {
               jonathanalpmyr
             </a>
           </li>
+          <li>
+            <a href='https://www.shadertoy.com/' target='_blank' rel='noopener noreferrer'>
+              shadertoy
+            </a>
+          </li>
         </ul>
       </section>
       <section>
